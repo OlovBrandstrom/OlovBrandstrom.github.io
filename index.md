@@ -21,11 +21,28 @@ This engine serves as a playground for exploring rendering techniques, physics s
 The demos are running on an Nvidia GeForce GTX 1060.
 
 ### Demo Videos
+<video width="560" height="315" controls>
+  <source src="videos/Jetski demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="videos/City Flight demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="560" height="315" controls>
+  <source src="videos/Post processing demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<!--
 <iframe width="560" height="315" src="https://drive.google.com/file/d/1wQ7v072wlpmVMqIaFlDLvlJc-BVixtCV/preview" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://drive.google.com/file/d/1IehsoueJBsEKVR9PbtwbKj_KDOCYW5VA/preview" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://drive.google.com/file/d/1jKjzmuraWrT4C-L5IVZsI4rQVL34N6w8/preview" frameborder="0" allowfullscreen></iframe>
+-->
 
 ---
 
