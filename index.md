@@ -49,10 +49,12 @@ Despite the hardware limitations of the time, these projects gave me valuable ex
 
 ### Demo Videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pcshs7jL4lk" frameborder="0" allowfullscreen></iframe>
-Image viewer, where the images are interactable physical pages as if a book. 
+Image viewer, where the images are interactable physical pages as if a book.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nC2AFZ4ehRg" frameborder="0" allowfullscreen></iframe>
 Snowflakes that fly around as if in a snow globe.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/42OTtVH23hE" frameborder="0" allowfullscreen></iframe>
 Image viewer where all images are on a interactable spiral shape.
@@ -66,19 +68,19 @@ Each project includes its own AI opponent, designed with different strategies ra
 
 - **Othello / Reversi**  
   The AI focuses on reducing the opponent’s options, aiming to control key positions on the board and eventually secure the corners and edges.  
-  [Download Othello (Google Drive)](https://drive.google.com/file/d/1kdMLWIvMkbrsOUa_h48vY-vukqT5XiGs/view?usp=sharing)
+  [Download Othello (Google Drive)](https://drive.google.com/file/d/1kdMLWIvMkbrsOUa_h48vY-vukqT5XiGs/view?usp=sharing)  
   [Code](https://gitlab.com/znorf/Othello)
 
 - **Quarto**  
   The AI begins by ensuring it does not lose quickly, and then transitions into solving the game once eight pieces remain.  
-  [Download Quarto (Google Drive)](https://drive.google.com/file/d/1YpAcWzxe4QABeBEACA4tnPLKsEIrRTJe/view?usp=sharing)
+  [Download Quarto (Google Drive)](https://drive.google.com/file/d/1YpAcWzxe4QABeBEACA4tnPLKsEIrRTJe/view?usp=sharing)  
   [Code](https://gitlab.com/znorf/quarto)
 
 - **Memory**  
   This AI is game-theory optimal, implemented using **dynamic programming**.  
   I also wrote a [short paper](https://drive.google.com/file/d/1Xm-Q24D9QQ3tyl5iO2p9QlzYYyfwPauC/view?usp=sharing) with observations of the solution.  
   For example, sometimes it is best for *both* players to only flip already known cards. Counterintuitively, in some situations, the player who risks searching for new pairs is more likely to lose.   
-  [Download Memory (Google Drive)](https://drive.google.com/file/d/1iJgm27cW18Ge4tWMJ8Nz3gjt3v_gXMKH/view?usp=sharing)
+  [Download Memory (Google Drive)](https://drive.google.com/file/d/1iJgm27cW18Ge4tWMJ8Nz3gjt3v_gXMKH/view?usp=sharing)  
   [Code](https://gitlab.com/znorf/memory)
 
 
