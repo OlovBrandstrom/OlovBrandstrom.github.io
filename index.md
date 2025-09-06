@@ -52,15 +52,15 @@ Despite the hardware limitations of the time, these projects gave me valuable ex
 
 ### Book image viewer
 <iframe width="720" height="405" src="https://www.youtube.com/embed/Pcshs7jL4lk" frameborder="0" allowfullscreen></iframe>
-An image viewer, where the images are interactable physical pages as if a book.  
+*An image viewer, where the images are interactable physical pages as if a book.*  
 
 ### Snow globe 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/nC2AFZ4ehRg" frameborder="0" allowfullscreen></iframe>
-Snowflakes that fly around as if in a snow globe.  
+*Snowflakes that fly around as if in a snow globe.*  
 
 ### Spiral image viewer
 <iframe width="720" height="405" src="https://www.youtube.com/embed/42OTtVH23hE" frameborder="0" allowfullscreen></iframe>
-Image viewer where all images are on a interactable spiral shape.  
+*Image viewer where all images are on a interactable spiral shape.* 
 
 ---
 
