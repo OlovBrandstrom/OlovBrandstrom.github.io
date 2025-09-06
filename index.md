@@ -1,6 +1,7 @@
-# Olov Brändström
-
-<img src="fixed-circle.png" alt="Profile picture" width="180" style="border-radius:50%;">
+<div align="center">
+  <h1>Olov Brändström</h1>
+  <img src="fixed-circle.png" alt="Profile picture" width="180" style="border-radius:50%;">
+</div>
 
 ---
 
@@ -20,24 +21,26 @@ I develop my own PC graphics engine from scratch, building on libraries such as 
 This engine serves as a playground for exploring rendering techniques, physics simulation, and interactive interfaces. It allows me to experiment with both the low-level details of computer graphics and the higher-level design of real-time 3D applications.  
 The demos are running on an Nvidia GeForce GTX 1060.
 
-### Demo Videos
-<video width="560" height="315" controls>
-  <source src="videos/Jetski demo.mp4" type="video/mp4">
+### Jetski Demo
+<video width="720" height="405" controls>
+  <source src="videos/jetski-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-Jetski racing on moving water.
+*Jetski racing on moving water.*
 
-<video width="560" height="315" controls>
-  <source src="videos/City Flight demo.mp4" type="video/mp4">
+### City Flight
+<video width="720" height="405" controls>
+  <source src="videos/city-flight-demo" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-Over 500'000 objects. Every object can be selected and be modified.
+*Over 500'000 objects. Every object can be selected and be modified.*
 
-<video width="560" height="315" controls>
-  <source src="videos/Post processing demo.mp4" type="video/mp4">
+### Post Processing
+<video width="720" height="405" controls>
+  <source src="videos/post-processing-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-Post processing demo. Bloom, Lens flare effects, wavy reflections.
+*Post processing demo. Bloom, Lens flare effects, wavy reflections.*
 
 ---
 
@@ -48,17 +51,15 @@ While the graphics engine itself was created by others, I was responsible for de
 Despite the hardware limitations of the time, these projects gave me valuable experience in real-time graphics and creative problem solving on constrained devices.
 
 ### Demo Videos
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pcshs7jL4lk" frameborder="0" allowfullscreen></iframe>
-Image viewer, where the images are interactable physical pages as if a book.
-<br><br>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/Pcshs7jL4lk" frameborder="0" allowfullscreen></iframe>
+Image viewer, where the images are interactable physical pages as if a book.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nC2AFZ4ehRg" frameborder="0" allowfullscreen></iframe>
-Snowflakes that fly around as if in a snow globe.
-<br><br>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/nC2AFZ4ehRg" frameborder="0" allowfullscreen></iframe>
+Snowflakes that fly around as if in a snow globe.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/42OTtVH23hE" frameborder="0" allowfullscreen></iframe>
-Image viewer where all images are on a interactable spiral shape.
-<br><br>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/42OTtVH23hE" frameborder="0" allowfullscreen></iframe>
+Image viewer where all images are on a interactable spiral shape.  
+
 ---
 
 ## Games with AI
@@ -92,10 +93,10 @@ In addition to my technical work, I also compose and produce music.
 For me, music is another way of exploring patterns, structure, and creativity.  
 Below are some selected pieces that showcase my personal style and interests.
 
-- [Mysterious Girl](https://drive.google.com/file/d/0B9ETOvExlOnjRk1uSnlfUk1QQlE/view?usp=drive_web&resourcekey=0-Qnh6pVN6EmiF7k-N3oC9Zw), Acoustic  guitar in symbiose with a flute. Backed up with a string ensable. 
-- [Leaving the Comfort Box](https://drive.google.com/file/d/1XeEBJnCgvBjZ9cNlZ4jt6GaOA31Zm39W/view?usp=drive_web), High beat song with orchestral instruments. Fast playing solo violinist.  
-- [Star Spangled Banner in minor](https://www.youtube.com/watch?v=LfDDTBlzm5c), The USA national anthem, but in minor and very sad sounding. 
-- [Deserved Happiness](https://www.youtube.com/watch?v=Uxj6yRdkVV4), Four musicians have a good time.
+- [Mysterious Girl](https://drive.google.com/file/d/0B9ETOvExlOnjRk1uSnlfUk1QQlE/view?usp=drive_web&resourcekey=0-Qnh6pVN6EmiF7k-N3oC9Zw)— *Acoustic  guitar in symbiose with a flute. Backed up with a string ensable.* 
+- [Leaving the Comfort Box](https://drive.google.com/file/d/1XeEBJnCgvBjZ9cNlZ4jt6GaOA31Zm39W/view?usp=drive_web) — *High beat song with orchestral instruments. Fast playing solo violinist.*  
+- [Star Spangled Banner in minor](https://www.youtube.com/watch?v=LfDDTBlzm5c) — *The USA national anthem, but in minor and very sad sounding.* 
+- [Deserved Happiness](https://www.youtube.com/watch?v=Uxj6yRdkVV4) — *Four musicians have a good time.*
 
 ---
 
