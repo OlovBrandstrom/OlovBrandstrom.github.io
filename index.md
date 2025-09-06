@@ -16,33 +16,28 @@ What excites me most is working at the intersection of **mathematics and program
 
 ## 3D Graphics (PC)
 
-I develop my own PC graphics engine from scratch, building on libraries such as **GLEW, OpenGL Mathematics (GLM), stb_image, PhysX, and ImGui**.  
+I develop my own PC graphics engine from scratch, building on libraries such as GLEW, OpenGL Mathematics (GLM), stb_image, PhysX, and ImGui.  
 This engine serves as a playground for exploring rendering techniques, physics simulation, and interactive interfaces. It allows me to experiment with both the low-level details of computer graphics and the higher-level design of real-time 3D applications.  
 The demos are running on an Nvidia GeForce GTX 1060.
 
 ### Demo Videos
+Jetski racing on moving water.
 <video width="560" height="315" controls>
   <source src="videos/Jetski demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+Over 500'000 objects. Every object can be selected and be modified.
 <video width="560" height="315" controls>
   <source src="videos/City Flight demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+Post processing demo. Bloom, Lens flare effects, wavy reflections.
 <video width="560" height="315" controls>
   <source src="videos/Post processing demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-<!--
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1wQ7v072wlpmVMqIaFlDLvlJc-BVixtCV/preview" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1IehsoueJBsEKVR9PbtwbKj_KDOCYW5VA/preview" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1jKjzmuraWrT4C-L5IVZsI4rQVL34N6w8/preview" frameborder="0" allowfullscreen></iframe>
--->
 
 ---
 
@@ -88,10 +83,10 @@ In addition to my technical work, I also compose and produce music.
 For me, music is another way of exploring patterns, structure, and creativity.  
 Below are some selected pieces that showcase my personal style and interests.
 
-- [Song 1 (Google Drive)](https://drive.google.com/file/d/0B9ETOvExlOnjRk1uSnlfUk1QQlE/view?usp=drive_web&resourcekey=0-Qnh6pVN6EmiF7k-N3oC9Zw)  
-- [Song 2 (Google Drive)](https://drive.google.com/file/d/1XeEBJnCgvBjZ9cNlZ4jt6GaOA31Zm39W/view?usp=drive_web)  
-- [Song 3 (YouTube)](https://www.youtube.com/watch?v=LfDDTBlzm5c)  
-- [Song 4 (YouTube)](https://www.youtube.com/watch?v=Uxj6yRdkVV4)
+- [Mysterious Girl](https://drive.google.com/file/d/0B9ETOvExlOnjRk1uSnlfUk1QQlE/view?usp=drive_web&resourcekey=0-Qnh6pVN6EmiF7k-N3oC9Zw), Acoustic  guitar in symbiose with a flute. Backed up with a string ensable.  
+- [Leaving the Comfort Box](https://drive.google.com/file/d/1XeEBJnCgvBjZ9cNlZ4jt6GaOA31Zm39W/view?usp=drive_web), High beat song with orchestral instruments. Fast playing solo violinist.  
+- [Star Spangled Banner in minor](https://www.youtube.com/watch?v=LfDDTBlzm5c) The USA national anthem, but in minor and very sad sounding. 
+- [Deserved Happiness](https://www.youtube.com/watch?v=Uxj6yRdkVV4) Four musicians have a good time.
 
 ---
 
