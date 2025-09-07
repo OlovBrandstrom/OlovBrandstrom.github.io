@@ -30,7 +30,7 @@ The demos are running on an Nvidia GeForce GTX 1060.
 
 ### City Flight
 <video width="720" height="405" controls>
-  <source src="videos/city-flight-demo" type="video/mp4">
+  <source src="videos/city-flight-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 *Over 500'000 objects. Every object can be selected and be modified.*
